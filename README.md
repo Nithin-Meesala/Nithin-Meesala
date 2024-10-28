@@ -1,3 +1,5 @@
+![Your Alt Text](assets/Banner.gif)
+
 # 💫 About Me:
 🔭 I’m currently working on Angular,Machine Learning<br>👯 I’m looking to collaborate on software Development<br>🤝 I’m looking for help from experienced Professionals in AIML<br>🌱 I’m currently learning Machine Learning<br>💬 Ask me about my e sports knowledge and technical skills.<br>⚡ Fun fact It snows metal on Venus!
 
